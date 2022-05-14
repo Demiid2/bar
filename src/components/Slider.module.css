@@ -1,0 +1,38 @@
+
+.container{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.desktop{
+    display: flex;
+}
+.phone{
+    display: none;
+}
+.tablet{
+    display: none;
+}
+
+@media screen and (min-width: 501px) and (max-width: 700px) {
+    .phone{
+        display: none;
+    }
+    .desktop{
+        display: none;
+    }
+    .tablet{
+        display: flex;
+    }
+}
+@media screen and (max-width: 500px) {
+    .phone{
+        display:flex;
+    }
+    .desktop{
+        display: none;
+    }
+    .tablet{
+        display: none;
+    }
+}

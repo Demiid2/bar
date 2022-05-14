@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+@media only screen and (max-width: 890px){
+  body{
+    background-image: url('./imagenes/imagen.jpeg');
+    background-position: center;
+    background-attachment:local;
+  }
+}
+@media only screen and (min-width: 891px) {
+  body{
+    background-image: url('./imagenes/imagen.jpeg');
+    
+  }
+  
+}
