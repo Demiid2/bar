@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bar/static/css/main.1b6b16c1.css",
+    "main.js": "/bar/static/js/main.97edbeec.js",
+    "static/js/787.34762d35.chunk.js": "/bar/static/js/787.34762d35.chunk.js",
+    "static/media/Viernes_Rock.jpeg": "/bar/static/media/Viernes_Rock.3fcca623026f0ffe5d49.jpeg",
+    "static/media/imagen.jpeg": "/bar/static/media/imagen.0ebe281c8c8ef240db1b.jpeg",
+    "static/media/Sabado_Tropical.jpg": "/bar/static/media/Sabado_Tropical.56492dd1880bf0519f4d.jpg",
+    "index.html": "/bar/index.html",
+    "main.1b6b16c1.css.map": "/bar/static/css/main.1b6b16c1.css.map",
+    "main.97edbeec.js.map": "/bar/static/js/main.97edbeec.js.map",
+    "787.34762d35.chunk.js.map": "/bar/static/js/787.34762d35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b6b16c1.css",
+    "static/js/main.97edbeec.js"
+  ]
+}
